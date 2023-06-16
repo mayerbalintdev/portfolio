@@ -1,22 +1,22 @@
 [
   {
-    "name": "Privát Family Villa - Budaörs",
+    "name": "Private Family Villa - Budaörs",
     "desc": "Full-stack HTML/CSS/JS alapján írodott weboldal. Az oldal stílusa kifejezetten személyreszabott. Az oldal magyar és angol nyelvű!",
     "image": "privatefamilyvilla",
     "category": "fullstack",
     "links": {
       "view": "https://privatefamilyvilla.hu/",
-      "code": "#"
+      "code": ""
     }
   },
   {
     "name": "Portfolio - Mayer Bálint",
-    "desc": "Porfolió weboldal",
+    "desc": "Porfolió weboldal a munkáim megtekintésére, esetleges megbízások fogadására.",
     "image": "portfolio",
-    "category": "fullstack",
+    "category": "backend",
     "links": {
-      "view": "https://privatefamilyvilla.hu/",
-      "code": "#"
+      "view": "#",
+      "code": ""
     }
   }
 ]

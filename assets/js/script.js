@@ -48,8 +48,8 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
-            document.title = "Mayer Bálint";
-            $("#favicon").attr("href", "assets/images/favhand.png");
+            document.title = "Portfolio | Mayer Bálint";
+            $("#favicon").attr("href", "assets/images/logo.png");
         }
     });
 
