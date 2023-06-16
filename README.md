@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/mayerbalintdev/portfolio">
-    <img src="/assets/images/200x200.png" alt="Logo" width="100" height="100">
+    <img src="assets/images/200x200.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Portfolio Mayer Bálint</h3>
@@ -10,8 +10,6 @@
     Portfolio website by: jigar-sable (Jigar Sable)
     <br/>
     <br/>
-    <a href="https://github.com/mayerbalintdev/portfolio">View Demo</a>
-    .
   </p>
 </p>
 
